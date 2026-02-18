@@ -13,8 +13,8 @@ This includes but is not limited to:
 ## As stated in the wiki disclaimer, this content is for evaluation and conceptual learning only; proprietary implementations are reserved.
 
 ## Version History
-- 1.0: Initial Unicorn license (2022).
-- 2.0: Major updates for Unicorn v2 (2023).
+- 1.0: Initial Unicorn Ballistic System license (2022).
+- 2.0: Major updates for Unicorn Ballistic System v2 (2023).
 - 3.0: RiftStrike rebrand and restrictions (Late 2025).
 - 3.1: Added disclaimer integration and versioning (February 18, 2026).
 
