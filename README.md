@@ -5,7 +5,7 @@ RiftStrike is a high-fidelity terminal ballistics simulator focused on accurate 
 The current version is a complete refactor and architectural rebuild of an older system originally started in 2022. All core logic, mathematics, and subsystems have been rewritten from the ground up to improve clarity, performance, and accuracy to real world data.
 
 > [!NOTE]  
-> Detailed technical documentation, concepts, data structures, and reasoning are maintained in the [Wiki]().  
+> Detailed technical documentation, concepts, data structures, and reasoning are maintained in the [Wiki](https://github.com/Unicorn-Wizard/RiftStrikeBallisticSystem/wiki).  
 > See the wiki for in-depth material.
 
 This project illustrates a deep understanding of terminal ballistics physics, material science, real-time numerical integration, and simulation architecture. 
