@@ -11,6 +11,8 @@ The current version is a complete refactor and architectural rebuild of an older
 This project illustrates a deep understanding of terminal ballistics physics, material science, real-time numerical integration, and simulation architecture. 
 It is intended as a personal portfolio piece.
 
-No generative AI was used in the design, implementation, or content creation of this system. Minor spelling and grammar corrections were made with conventional tools due to a previous brain injury.
+No generative AI was used in the design, implementation, or content creation of this system. Spelling and grammar corrections were made with conventional tools due to a previous brain injury.
+
+The contents are provided for evaluation purposes only and are not licensed for redistribution, commercial use, or direct replication. See the LICENSE file for details.
 
 Copyright © Shaun Brown 2022–2026. All rights reserved.
